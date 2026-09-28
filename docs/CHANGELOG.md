@@ -3,6 +3,7 @@
 ## [Unreleased] - 2026-09-28
 
 ### Added
+- **aspnet-testing**: Adicionada skill para executar e corrigir testes unitários ASP.NET, validar endpoints relevantes com curl e relatar os resultados.
 - **code-review**: Adicionado arquivo eferences/principles.md com as regras detalhadas de arquitetura, DRY, KISS e responsabilidades.
 - **e2e-testing**: Adicionado arquivo eferences/playwright-guidelines.md com as estratégias e regras de cobertura para Playwright.
 - **scaffold-project**: Adicionados arquivos eferences/angular-architecture.md e eferences/dotnet-architecture.md detalhando a infraestrutura e convenções.

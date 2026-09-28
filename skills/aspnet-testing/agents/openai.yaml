@@ -1,0 +1,7 @@
+interface:
+  display_name: "ASP.NET Testing"
+  short_description: "Teste e valide APIs ASP.NET"
+  default_prompt: "Use $aspnet-testing para validar testes e endpoints desta API."
+
+policy:
+  allow_implicit_invocation: true
